@@ -3,7 +3,6 @@ import math
 
 import streamlit as st
 from PIL import Image
-from sympy import sympify, Eq
 
 
 @st.cache()

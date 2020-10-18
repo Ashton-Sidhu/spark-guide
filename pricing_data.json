@@ -1,0 +1,282 @@
+{
+    "DS3v2": {
+        "Canada Central" : {
+            "CPUs": 4,
+            "RAM": 14.00,
+            "Total Price": 0.743
+        }
+    },
+    "DS4v2": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 28.00,
+            "Total Price": 1.485
+        }
+    },
+    "DS5v2": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 56.00,
+            "Total Price": 2.970
+        }
+    },
+    "D3v2": {
+        "Canada Central" : {
+            "CPUs": 4,
+            "RAM": 14.00,
+            "Total Price": 0.743
+        }
+    },
+    "D8sv3": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 32.00,
+            "Total Price": 1.337
+        }
+    },
+    "D16sv3": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 64.00,
+            "Total Price": 2.673
+        }
+    },
+    "D32sv3": {
+        "Canada Central" : {
+            "CPUs": 32,
+            "RAM": 128.00,
+            "Total Price": 5.346
+        }
+    },
+    "D64sv3": {
+        "Canada Central" : {
+            "CPUs": 64,
+            "RAM": 256.00,
+            "Total Price": 10.691
+        }
+    },
+    "D8v3": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 32.00,
+            "Total Price": 1.337
+        }
+    },
+    "D16v3": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 64.00,
+            "Total Price": 2.673
+        }
+    },
+    "D32v3": {
+        "Canada Central" : {
+            "CPUs": 32,
+            "RAM": 128.00,
+            "Total Price": 5.346
+        }
+    },
+    "D64v3": {
+        "Canada Central" : {
+            "CPUs": 64,
+            "RAM": 256.00,
+            "Total Price": 10.691
+        }
+    },
+    "DS12v2": {
+        "Canada Central" : {
+            "CPUs": 4,
+            "RAM": 28.00,
+            "Total Price": 0.981
+        }
+    },
+    "DS13v2": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 56.00,
+            "Total Price": 1.961
+        }
+    },
+    "DS14v2": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 112.00,
+            "Total Price": 3.921
+        }
+    },
+    "DS15v2": {
+        "Canada Central" : {
+            "CPUs": 20,
+            "RAM": 140.00,
+            "Total Price": 4.902
+        }
+    },
+    "D12v2": {
+        "Canada Central" : {
+            "CPUs": 4,
+            "RAM": 28.00,
+            "Total Price": 0.981
+        }
+    },
+    "D13v2": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 56.00,
+            "Total Price": 1.961
+        }
+    },
+    "D14v2": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 112.00,
+            "Total Price": 3.921
+        }
+    },
+    "D15v2": {
+        "Canada Central" : {
+            "CPUs": 20,
+            "RAM": 140.00,
+            "Total Price": 4.902
+        }
+    },
+    "E8sv3": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 64.00,
+            "Total Price": 1.772
+        }
+    },
+    "E16sv3": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 128.00,
+            "Total Price": 3.544
+        }
+    },
+    "E32sv3": {
+        "Canada Central" : {
+            "CPUs": 32,
+            "RAM": 256.00,
+            "Total Price": 7.087
+        }
+    },
+    "E64sv3": {
+        "Canada Central" : {
+            "CPUs": 64,
+            "RAM": 432.00,
+            "Total Price": 13.279
+        }
+    },
+    "L4s": {
+        "Canada Central" : {
+            "CPUs": 4,
+            "RAM": 32.00,
+            "Total Price": 0.953
+        }
+    },
+    "L8s": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 64.00,
+            "Total Price": 1.905
+        }
+    },
+    "L16s": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 128.00,
+            "Total Price": 3.810
+        }
+    },
+    "L32s": {
+        "Canada Central" : {
+            "CPUs": 32,
+            "RAM": 256.00,
+            "Total Price": 7.619
+        }
+    },
+    "F4sv2": {
+        "Canada Central" : {
+            "CPUs": 4,
+            "RAM": 8.00,
+            "Total Price": 0.749
+        }
+    },
+    "F8sv2": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 16.00,
+            "Total Price": 1.499
+        }
+    },
+    "F16sv2": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 32.00,
+            "Total Price": 2.997
+        }
+    },
+    "F32sv2": {
+        "Canada Central" : {
+            "CPUs": 32,
+            "RAM": 64.00,
+            "Total Price": 5.993
+        }
+    },
+    "F64sv2": {
+        "Canada Central" : {
+            "CPUs": 64,
+            "RAM": 128.00,
+            "Total Price": 11.988
+        }
+    },
+    "F72sv2": {
+        "Canada Central" : {
+            "CPUs": 72,
+            "RAM": 144.00,
+            "Total Price": 13.485
+        }
+    },
+    "F4": {
+        "Canada Central" : {
+            "CPUs": 4,
+            "RAM": 8.00,
+            "Total Price": 0.521
+        }
+    },
+    "F8": {
+        "Canada Central" : {
+            "CPUs": 8,
+            "RAM": 16.00,
+            "Total Price": 1.044
+        }
+    },
+    "F16": {
+        "Canada Central" : {
+            "CPUs": 16,
+            "RAM": 32.00,
+            "Total Price": 2.087
+        }
+    },
+    "NC6sv3": {
+        "Canada Central" : {
+            "CPUs": 6,
+            "RAM": 112.00,
+            "Total Price": 6.869
+        }
+    },
+    "NC12sv3": {
+        "Canada Central" : {
+            "CPUs": 12,
+            "RAM": 224.00,
+            "Total Price": 13.737
+        }
+    },
+    "NC24sv3": {
+        "Canada Central" : {
+            "CPUs": 24,
+            "RAM": 448.00,
+            "Total Price": 27.474
+        }
+    }
+}
